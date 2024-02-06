@@ -18,9 +18,9 @@
         <title>Dashboard - Case Management Tool</title>
     </head>
     <body>
-        <div class="bg_wait show">
+        <!-- <div class="bg_wait show">
             <div class="spinner-grow text-success"></div>
-        </div>
+        </div> -->
         <div class="container-fullwidth h-100">
             <div class="row no-gutters">
                 <nav class="navbar navbar-default navbar-fixed-top">
